@@ -2,7 +2,7 @@
   "name": "math-quiz",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Harikrishnan-Rajkumar/Math-Quiz",
+  "homepage": "https://github.com/Harikrishnan-Rajkumar/Math-Quiz/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
