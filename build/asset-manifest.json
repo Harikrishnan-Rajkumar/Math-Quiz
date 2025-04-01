@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Harikrishnan-Rajkumar/Math-Quiz/static/css/main.e6c13ad2.css",
+    "main.js": "/Harikrishnan-Rajkumar/Math-Quiz/static/js/main.eea17990.js",
+    "index.html": "/Harikrishnan-Rajkumar/Math-Quiz/index.html",
+    "main.e6c13ad2.css.map": "/Harikrishnan-Rajkumar/Math-Quiz/static/css/main.e6c13ad2.css.map",
+    "main.eea17990.js.map": "/Harikrishnan-Rajkumar/Math-Quiz/static/js/main.eea17990.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.eea17990.js"
+  ]
+}
